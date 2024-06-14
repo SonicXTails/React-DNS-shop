@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.product-cards-container {
+  display: flex; 
+  justify-content: center; 
+  gap: -10px; 
+  flex-wrap: wrap; 
+}
+
+.product-heading {
+  text-align: center;
+}
